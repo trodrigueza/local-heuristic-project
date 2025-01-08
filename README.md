@@ -1,0 +1,1 @@
+We try to pose a small problem to have a better understanding about the paper "A Data Efficient Framework for Learning Local Heuristics" by Rishi Veerapaneni, Jonathan Park, Muhammad Suhail Saleem and Maxim Likhachev.
