@@ -8,4 +8,4 @@ Considerations:
 
 - `videos1`: Visualization of $A^*$ running with all the considered heuristics.
 
-- `modelos`: Model file used in `main.ipynb`
+- `modelos`: Model file used in `main.ipynb`.
